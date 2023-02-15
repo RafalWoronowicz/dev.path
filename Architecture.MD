@@ -1,6 +1,10 @@
 
 This section is dedicated to subjects related do Architecture / clean code / CI & CD
 
+(Conf) confiturapl 2014    
+https://www.youtube.com/watch?v=CKONKZLmMwk
+Sławomir Sobótka - Nie koduj, pisz prozę - lingwistyczne techniki wychodzące poza Clean Code    
+
 (Conf) #63 Talk4Devs    
 https://www.youtube.com/watch?v=GEjp_jOT2K4    
 Sławomir Sobótka | Poznaj swoje granice - o odkrywaniu granic obiektów i modułów
