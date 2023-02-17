@@ -6,3 +6,7 @@ Jaka jest struktura idealnej prezentacji❓ Sławomir Sobótka z Bottega IT Mind
 TEDxKatowice    
 https://www.youtube.com/watch?v=DFye1_R5InM    
 Jak nie robić prezentacji, które mogłyby być mailem? | Kamil Kozieł    
+
+Bottega IT Minds    
+https://www.youtube.com/watch?v=czGyPz3AKLk    
+FDD 2015 Sławomir Sobótka Jak dogadywać się z obcymi formami inteligencji    
