@@ -53,7 +53,7 @@ Mateusz Chrzonstowski | Moje rozumienie DDD (+ clean architecture) |
 https://www.youtube.com/watch?v=pAX8GAsRaYk    
 Is This Why You’re Bad At Programming?
 
-(YT)
-Continuous Delivery    
-https://www.youtube.com/watch?v=YoFnqpv3qgU    
-Declarative vs Imperative in Functional Programming
+(YT) DNA - Droga nowoczesnego Architekta    
+https://www.youtube.com/watch?v=QTDO4rY0dQc    
+Refactoring a Architektura, bez nudy! [DNA LIVE]
+
