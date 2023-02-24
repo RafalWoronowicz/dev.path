@@ -4,3 +4,6 @@ https://www.youtube.com/watch?v=GEbn3nHyKnA
 
 How to regexp    
 https://www.regular-expressions.info/catastrophic.html    
+
+How not to regexp :-)    
+https://securityboulevard.com/2019/07/how-regular-expressions-and-a-waf-choked-cloudflare/    
