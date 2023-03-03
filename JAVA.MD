@@ -38,3 +38,8 @@ Get a Taste of Lambdas and Get Addicted to Streams by Venkat Subramaniam
 (Conf)Devoxx    
 https://www.youtube.com/watch?v=0hQvWIdwnw4    
 Parallel and Asynchronous Programming with Streams and CompletableFuture with Venkat Subramaniam
+
+
+CodeAesthetic    
+https://www.youtube.com/watch?v=hxGOiiR9ZKg    
+The Flaws of Inheritance    
