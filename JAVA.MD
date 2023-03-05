@@ -43,3 +43,7 @@ Parallel and Asynchronous Programming with Streams and CompletableFuture with Ve
 CodeAesthetic    
 https://www.youtube.com/watch?v=hxGOiiR9ZKg    
 The Flaws of Inheritance    
+
+CodeAesthetic    
+https://www.youtube.com/watch?v=tKbV6BpH-C8    
+Premature Optimization    
