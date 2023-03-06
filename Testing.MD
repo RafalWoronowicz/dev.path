@@ -48,3 +48,6 @@ https://www.youtube.com/watch?v=tWn8RA_DEic
 Continuous Delivery - The Role Of QA in Agile Software    
 https://www.youtube.com/watch?v=XhFVtuNDAoM    
 
+
+https://testcontainers.gitbook.io/workshop/    
+Test containers workshop    
