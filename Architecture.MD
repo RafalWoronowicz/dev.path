@@ -57,7 +57,3 @@ Is This Why You’re Bad At Programming?
 https://www.youtube.com/watch?v=QTDO4rY0dQc    
 Refactoring a Architektura, bez nudy! [DNA LIVE]
 
-Devoxx    
-https://www.youtube.com/watch?v=uQ75fI1tqoM    
-Speed without Discipline a Recipe for Disaster by Venkat Subramaniam    
-
