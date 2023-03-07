@@ -47,3 +47,8 @@ The Flaws of Inheritance
 CodeAesthetic    
 https://www.youtube.com/watch?v=tKbV6BpH-C8    
 Premature Optimization    
+
+confiturapl    
+https://www.youtube.com/watch?v=UPWkpl5PL_w&t=3s     
+2016 - Jakub Kubryński - JPA - beyond copy-paste    
+
