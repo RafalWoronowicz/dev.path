@@ -52,3 +52,6 @@ confiturapl
 https://www.youtube.com/watch?v=UPWkpl5PL_w&t=3s     
 2016 - Jakub Kubryński - JPA - beyond copy-paste    
 
+Devoxx    
+https://www.youtube.com/watch?v=Ej0sss6cq14    
+Optional - The Mother of All Bikesheds by Stuart Marks    
