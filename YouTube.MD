@@ -23,7 +23,11 @@ clean code in a nuthell
 https://www.youtube.com/@Computerphile        
     
 **Coding with John - JAVA basics**    
+https://www.youtube.com/@kevinfaang    
+
+**Kevin Fang**    
 https://www.youtube.com/channel/UC42pOSNg804f1wCcj7qL0mA    
+
 
 ## Computer science Videos    
 
