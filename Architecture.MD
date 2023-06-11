@@ -1,6 +1,11 @@
 
 This section is dedicated to subjects related do Architecture / clean code / CI & CD
 
+
+(Conf) NDC London 2023    
+https://www.youtube.com/watch?v=88_LUw1Wwe4    
+William Brander - Top 5 techniques for building the worst microservice system ever    
+
 (Conf) confiturapl 2014    
 https://www.youtube.com/watch?v=CKONKZLmMwk    
 Sławomir Sobótka - Nie koduj, pisz prozę - lingwistyczne techniki wychodzące poza Clean Code    
