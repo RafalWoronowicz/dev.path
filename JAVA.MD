@@ -55,3 +55,10 @@ https://www.youtube.com/watch?v=UPWkpl5PL_w&t=3s
 Devoxx    
 https://www.youtube.com/watch?v=Ej0sss6cq14    
 Optional - The Mother of All Bikesheds by Stuart Marks    
+
+confiturapl    
+https://www.youtube.com/watch?v=5Er7juSAMXI    
+2022 - Jakub Nabrdalik - Things that work for me so well I cannot believe you are not using it    
+   
+
+
