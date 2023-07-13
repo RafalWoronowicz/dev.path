@@ -1,5 +1,11 @@
 This section is dedicated for all materials regarding coding in java / spring / hibernate etc
 
+Java    
+https://www.youtube.com/@java    
+https://inside.java     
+https://dev.java    
+The official Java channel covering the Java platform, OpenJDK, and the Java ecosystem.    
+
 (Conf) Doing Java Better Conf 14.12.2021    
 https://www.youtube.com/watch?v=4CHf5VVwpm0&list=PLSx7O0TzhRJYwa2TJrtfoK6CTTcpBmUcr    
 1.Piotr Przybył: (mis)using modern Java.    
