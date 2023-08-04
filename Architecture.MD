@@ -2,6 +2,10 @@
 This section is dedicated to subjects related do Architecture / clean code / CI & CD
 
 
+(Conf) Devoxx Poland    
+https://www.youtube.com/watch?v=4Iqjhi3kusY    
+Designing Systems - What I wish I knew • Jakub Nabrdalik • Devoxx Poland 2021   
+
 (Conf) NDC London 2023    
 https://www.youtube.com/watch?v=88_LUw1Wwe4    
 William Brander - Top 5 techniques for building the worst microservice system ever    
