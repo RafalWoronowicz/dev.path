@@ -14,10 +14,15 @@ by Kevlin Henney*
 *by Robert C. Martin*    
 **8. Zwinne wytwarzanie oprogramowania. Najlepsze zasady, wzorce i praktyki**    
 *by Robert C. Martin*    
-
-Software Architectire for Developers - Simon Brown
-Fundamentals of Software Architecture: An Engieneering Approach - <ark Richards, Neal Ford
-Design Event-Driven Systems - Ben Stopford
-Reactive Design Patterns - Roland Kuhn Dr.
-Team Topologies - Matthew Skelton, Manuel Pais
-Domain-Driven Design: Tracking Complexity in the Heart of Softare - Eric Evans
+**Software Architectire for Developers**    
+*Simon Brown*
+**Fundamentals of Software Architecture: An Engieneering Approach**     
+*Mark Richards, Neal Ford*
+**Design Event-Driven Systems**     
+*Ben Stopford*
+**Reactive Design Patterns**     
+*Roland Kuhn Dr.*
+**Team Topologies**     
+*Matthew Skelton, Manuel Pais*
+**Domain-Driven Design: Tracking Complexity in the Heart of Softare**    
+*Eric Evans*
