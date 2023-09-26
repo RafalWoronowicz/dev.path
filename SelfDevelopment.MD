@@ -10,3 +10,8 @@ Jak nie robić prezentacji, które mogłyby być mailem? | Kamil Kozieł
 Bottega IT Minds    
 https://www.youtube.com/watch?v=czGyPz3AKLk    
 FDD 2015 Sławomir Sobótka Jak dogadywać się z obcymi formami inteligencji    
+
+Warsaw JUG    
+https://www.youtube.com/watch?v=odrean5ShZQ    
+WJUG #184 - Peer-2-Peer Salary Review - Jakub Nabrdalik    
+
