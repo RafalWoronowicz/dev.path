@@ -1,6 +1,13 @@
 
 This section is dedicated to subjects related do Architecture / clean code / CI & CD
 
+Warsaw JUG    
+https://www.youtube.com/watch?v=ILBX9fa9aJo&t=24s    
+WJUG #211 - [PL] Modularity and hexagonal architecture in real life: Jakub Nabrdalik    
+
+BEC    
+https://www.youtube.com/watch?v=1pBOUa4vX0w    
+DDD-WAW: Jakub Nabrdalik – Czemu nikt zdrowy przy umyśle nie buduje dziś dużego monolitu?    
 
 (Conf) Devoxx Poland    
 https://www.youtube.com/watch?v=4Iqjhi3kusY    
