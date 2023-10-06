@@ -1,7 +1,7 @@
-Craft-IT 2023 - Jarosław Pałka - 25 lat mijania się z prawdą
-https://www.youtube.com/watch?v=PbZVm5lX7_Q
-Craft-IT
-
+Craft-IT 2023 - Jarosław Pałka - 25 lat mijania się z prawdą    
+https://www.youtube.com/watch?v=PbZVm5lX7_Q    
+Craft-IT    
+    
 Anna PRO - PROfesjonalne webinary i prezentacje    
 https://www.youtube.com/watch?v=k7hmJhDpqws&list=PLlpgO2wWvQHbjhRyqyaZoZO0U-93aw9RM&index=12    
 Jaka jest struktura idealnej prezentacji❓ Sławomir Sobótka z Bottega IT Minds mówi o prezentacji    
