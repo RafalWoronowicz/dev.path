@@ -26,3 +26,9 @@ by Kevlin Henney*
 *by Matthew Skelton, Manuel Pais*      
 **14. Domain-Driven Design: Tracking Complexity in the Heart of Softare**      
 *Eric Evans*      
+**15.Antykruchość. Jak żyć w świecie, którego nie rozumiemy**    
+*Taleb Nassim Nicholas*    
+**16.Myślenie systemowe. Wprowadzenie**        
+*Meadows Donella H.*    
+**17.Simply Complexity: A Clear Guide to Complexity Theory**    
+*Neil Johnson*    
