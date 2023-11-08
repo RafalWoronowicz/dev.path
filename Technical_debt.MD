@@ -1,3 +1,7 @@
+https://www.cio.com/article/472768/5-tips-for-tackling-technical-debt.html   
+
+----
+
 Searching for Build Debt:    
 Experiences Managing Technical Debt at Google    
 J. David Morgenthaler, Misha Gridnev, Raluca Sauciuc, and Sanjay Bhansali    
