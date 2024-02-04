@@ -1,6 +1,10 @@
 
 This section is dedicated to subjects related do Architecture / clean code / CI & CD
 
+Confluent    
+https://www.youtube.com/watch?v=FpLXCBr7ucA    
+What is the Dual Write Problem? | Microservices 101    
+
 Warsaw JUG    
 https://www.youtube.com/watch?v=ILBX9fa9aJo&t=24s    
 WJUG #211 - [PL] Modularity and hexagonal architecture in real life: Jakub Nabrdalik    
